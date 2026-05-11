@@ -1,2 +1,2 @@
 # HRES-Metaheuristic-Optimisation
-This project compares Particle Swarm Optimisation (PSO), Genetic Algorithm (GA), and Simulated Annealing (SA) for optimal sizing of an off-grid Hybrid Renewable Energy System (HRES) in Ladakh, India.
+Developed and compared PSO, Genetic Algorithm, and Simulated Annealing approaches for optimal sizing of off-grid Hybrid Renewable Energy System (HRES) using NASA POWER climate data and statistical validation techniques in Ladakh, India.
